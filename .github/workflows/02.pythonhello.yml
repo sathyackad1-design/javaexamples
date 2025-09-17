@@ -1,5 +1,6 @@
 name: Run Hello-world from py script
-on: pull
+on: push
+
 
 jobs:
  pyjob:
